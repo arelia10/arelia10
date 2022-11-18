@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Areli, a 26 years old web developer from Peru.
+I'm Areli, a 27 years old web developer from Peru.
 ## Skills
 - 👨‍💻  Html,JavaScript
 - ⚙️ React
